@@ -2,7 +2,7 @@
   "name": "analytics.js-integration-crazy-egg",
   "repo": "segment-integrations/analytics.js-integration-crazy-egg",
   "description": "The Crazy Egg analytics.js integration.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
